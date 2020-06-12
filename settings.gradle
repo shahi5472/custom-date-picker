@@ -1,0 +1,3 @@
+include ':CustomBottomSheetDatePicker'
+include ':app'
+rootProject.name = "CustomDatePicker"
