@@ -10,7 +10,7 @@ In your app's `build.gradle` add
 ```
 
 dependencies {
-    implementation 'com.github.shahi5472:custom-date-picker:1.0.1'
+    implementation 'com.github.shahi5472:custom-date-picker:1.1.0'
 }
 
 
