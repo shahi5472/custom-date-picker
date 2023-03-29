@@ -1,5 +1,5 @@
 # Custom Bottom Sheet Date Picker (For android java)
-This is a Custom Bottom Sheet Date Picker , It easy to use
+The Custom Bottom Sheet Date Picker is a dependency library designed for Android apps. It is inspired by the iOS date picker style and provides a user-friendly interface for selecting dates. With this library, developers can easily integrate a sleek and modern date picker into their app, without the need for extensive coding. The bottom sheet design allows users to easily select their preferred date, while the library's ease of use makes it a convenient solution for developers.
 
 <br>
 
